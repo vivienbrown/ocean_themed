@@ -1,0 +1,26 @@
+.page {
+  margin: 0;
+  background-color: #ebe8e3;
+  color: #36878c;
+}
+
+/*#9da8ad 
+#36878c - Font color
+#ebe8e3 - Background color
+#d0c1b5
+#79a0a5*/
+
+.header {
+  background-color: #ebe8e3;
+  background-image: url(./images/sean-oulashin-KMn4VEeEPR8-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header__title {
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+  color: rgb(235, 232, 227);
+}
